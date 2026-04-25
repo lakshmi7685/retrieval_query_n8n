@@ -12,9 +12,9 @@
         0,
         0
       ],
-      "id": "e1212964-daeb-4a3d-a4d6-9343e92de9ee",
+      "id": "",
       "name": "When chat message received",
-      "webhookId": "aab7906a-e1d4-4d69-b3d2-fd97363aaa30"
+      "webhookId": "
     },
     {
       "parameters": {
@@ -28,7 +28,7 @@
         208,
         0
       ],
-      "id": "0475ae4c-91b4-49ee-a881-7cf65bf0c9fa",
+      "id": "",
       "name": "AI Agent"
     },
     {
@@ -39,7 +39,7 @@
         224,
         208
       ],
-      "id": "9d6da519-918b-4455-bede-464bf062d810",
+      "id": "",
       "name": "Simple Memory"
     },
     {
@@ -52,7 +52,7 @@
         368,
         208
       ],
-      "id": "4140d727-07ea-43ee-8406-2b0fa8080571",
+      "id": "",
       "name": "Answer questions with a vector store"
     },
     {
@@ -73,11 +73,11 @@
         192,
         672
       ],
-      "id": "fcb0a7ba-1530-46dc-a0ee-5375d8c1ee9a",
+      "id": "",
       "name": "Pinecone Vector Store",
       "credentials": {
         "pineconeApi": {
-          "id": "JB8yh4fGnkPMLjXg",
+          "id": "",
           "name": "Pinecone account"
         }
       }
@@ -99,11 +99,11 @@
         496,
         368
       ],
-      "id": "32644225-409e-41c1-af4a-64a2b7526945",
+      "id": "",
       "name": "OpenAI Chat Model1",
       "credentials": {
         "openAiApi": {
-          "id": "0eNnkRxuQamoukiu",
+          "id": "",
           "name": "OpenAI account"
         }
       }
@@ -121,11 +121,11 @@
         96,
         816
       ],
-      "id": "b1af87a4-c17b-4310-8145-33a3c2033408",
+      "id": "",
       "name": "Embeddings OpenAI",
       "credentials": {
         "openAiApi": {
-          "id": "0eNnkRxuQamoukiu",
+          "id": "",
           "name": "OpenAI account"
         }
       }
@@ -147,11 +147,11 @@
         80,
         208
       ],
-      "id": "da07c91e-a3f3-4c04-bbf0-3b85f380b2fc",
+      "id": "",
       "name": "OpenAI Chat Model",
       "credentials": {
         "openAiApi": {
-          "id": "0eNnkRxuQamoukiu",
+          "id": "",
           "name": "OpenAI account"
         }
       }
